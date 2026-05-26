@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggeruonnect",
+        "uuid": 2955988,
+        "checksum": "g2w7sg"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
